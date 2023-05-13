@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "criptography/04-caesar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c83d2972e32dd0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "criptography/05-la cifra de.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe66f627b41820f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reverse enginering/06-asm2.md",
+                "file": "reverse enginering/15-safe opener 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reverse enginering/06-asm2.md",
+                "file": "reverse enginering/15-safe opener 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reverse enginering/06-asm2.md",
+                "file": "reverse enginering/15-safe opener 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reverse enginering/06-asm2.md"
+                "file": "reverse enginering/15-safe opener 2.md"
               }
             }
           }
@@ -179,12 +154,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe66f627b41820f9",
+  "active": "45689e76edd5bd68",
   "lastOpenFiles": [
+    "reverse enginering/14-reverse cipher.md",
+    "reverse enginering/15-safe opener 2.md",
+    "reverse enginering/13-gdb test drive.md",
+    "reverse enginering/12-need for speed.md",
+    "retos bandit/level 1-2.md",
+    "retos forensic/03-shark on wire.md",
+    "reverse enginering/10-reverse_cipher.md",
+    "reverse enginering/09-gdb test drive.md",
+    "reverse enginering/11-save opener.md",
+    "criptography/04-caesar.md",
+    "criptography/05-la cifra de.md",
+    "reverse enginering/08-fast.md",
+    "reverse enginering/06-asm2.md",
+    "reverse enginering/plantilla.md",
+    "reverse enginering/07-asm3.md",
     "criptography/06-waves over lambda.md",
     "retos forensic/01-Glory of the Garden.md",
-    "criptography/05-la cifra de.md",
-    "criptography/04-caesar.md",
     "criptography/03-13.md",
     "criptography/plantilla.md",
     "criptography/02-Easy1.md",
@@ -196,19 +184,6 @@
     "retos forensic/14-tunn3l v1s10n.md",
     "retos forensic/13-Matryoshka doll.md",
     "retos forensic/12-webnet1.md",
-    "retos forensic/11-webnet0.md",
-    "retos forensic/10-shark on wire 2.md",
-    "retos forensic/05-what lies within.md",
-    "retos forensic/06-moonwalk.md",
-    "retos forensic/09-like1000.md",
-    "retos forensic/08-corrupt.md",
-    "picoCTF2023/12-ReadMyCert.md",
-    "picoCTF2023/14-Timer.md",
-    "picoCTF2023/13-Safe Opener 2.md",
-    "picoCTF2023/11-two sum.md",
-    "picoCTF2023/plantilla.md",
-    "retos forensic/07-WhitePages.md",
-    "retos forensic/plantilla.md",
     "retos forensic",
     "retos web/2021",
     "picoCTF2023",
