@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reverse enginering/15-safe opener 2.md",
+                "file": "tercer parcial/crypto/04-vigenere.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reverse enginering/15-safe opener 2.md",
+                "file": "tercer parcial/crypto/04-vigenere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reverse enginering/15-safe opener 2.md",
+                "file": "tercer parcial/crypto/04-vigenere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reverse enginering/15-safe opener 2.md"
+                "file": "tercer parcial/crypto/04-vigenere.md"
               }
             }
           }
@@ -156,8 +156,29 @@
   },
   "active": "45689e76edd5bd68",
   "lastOpenFiles": [
-    "reverse enginering/14-reverse cipher.md",
+    "tercer parcial/crypto/03-transposition-trial.md",
+    "tercer parcial/crypto/04-vigenere.md",
+    "binary/05-stonks.md",
+    "tercer parcial/crypto/02-mr worldwide.md",
+    "tercer parcial/crypto/01-flags.md",
+    "tercer parcial/binary/03-two sum.md",
+    "picoCTF2023/11-two sum.md",
+    "tercer parcial/binary",
+    "tercer parcial/crypto/plantilla.md",
+    "tercer parcial/plantilla.md",
+    "tercer parcial/crypto",
+    "Untitled 1",
+    "tercer parcial",
+    "binary/04-flag leak.md",
+    "binary/03-buffer overflow 1.md",
+    "binary/02-buffer overflow 0.md",
+    "binary/01-basic file exploit.md",
+    "binary/plantilla.md",
+    "Untitled 1.md",
+    "Untitled",
     "reverse enginering/15-safe opener 2.md",
+    "binary",
+    "reverse enginering/14-reverse cipher.md",
     "reverse enginering/13-gdb test drive.md",
     "reverse enginering/12-need for speed.md",
     "retos bandit/level 1-2.md",
@@ -167,31 +188,10 @@
     "reverse enginering/11-save opener.md",
     "criptography/04-caesar.md",
     "criptography/05-la cifra de.md",
-    "reverse enginering/08-fast.md",
-    "reverse enginering/06-asm2.md",
-    "reverse enginering/plantilla.md",
-    "reverse enginering/07-asm3.md",
-    "criptography/06-waves over lambda.md",
-    "retos forensic/01-Glory of the Garden.md",
-    "criptography/03-13.md",
-    "criptography/plantilla.md",
-    "criptography/02-Easy1.md",
-    "criptography/01-the numbers.md",
-    "retos web/plantilla.md",
     "criptography",
     "Untitled.canvas",
-    "retos forensic/15-MacroHard WeakEdge.md",
-    "retos forensic/14-tunn3l v1s10n.md",
-    "retos forensic/13-Matryoshka doll.md",
-    "retos forensic/12-webnet1.md",
     "retos forensic",
     "retos web/2021",
-    "picoCTF2023",
-    "retos web/2019",
-    "retos web",
-    "primer parcial/2022",
-    "primer parcial/2021",
-    "primer parcial/2019",
-    "primer parcial"
+    "picoCTF2023"
   ]
 }
