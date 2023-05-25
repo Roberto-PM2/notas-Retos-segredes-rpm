@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tercer parcial/reversing/07-GDB baby step 2.md",
+                "file": "tercer parcial/binary/04-two sum.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#ssh",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tercer parcial/reversing/07-GDB baby step 2.md",
+                "file": "tercer parcial/binary/04-two sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tercer parcial/reversing/07-GDB baby step 2.md",
+                "file": "tercer parcial/binary/04-two sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tercer parcial/reversing/07-GDB baby step 2.md"
+                "file": "tercer parcial/binary/04-two sum.md"
               }
             }
           }
@@ -156,33 +156,33 @@
   },
   "active": "45689e76edd5bd68",
   "lastOpenFiles": [
-    "tercer parcial/reversing/06-GDB baby step 1.md",
-    "tercer parcial/reversing/07-GDB baby step 2.md",
-    "binary/05-stonks.md",
-    "binary/04-flag leak.md",
+    "tercer parcial/crypto/01-flags.md",
+    "tercer parcial/crypto/02-mr worldwide.md",
+    "tercer parcial/crypto/03-transposition-trial.md",
+    "tercer parcial/crypto/04-vigenere.md",
+    "tercer parcial/crypto/05-SRA.md",
+    "tercer parcial/binary/03-clutter overflow.md",
+    "tercer parcial/binary/04-two sum.md",
+    "tercer parcial/reversing/01-ASCII FTW.md",
     "binary/03-buffer overflow 1.md",
+    "binary/04-flag leak.md",
+    "tercer parcial/binary/02-local target.md",
     "binary/02-buffer overflow 0.md",
+    "tercer parcial/reversing/07-GDB baby step 2.md",
+    "tercer parcial/reversing/06-GDB baby step 1.md",
     "tercer parcial/reversing/05-Bit-O-Asm-4.md",
+    "tercer parcial/binary/01-picker IV.md",
+    "tercer parcial/binary/plantilla.md",
+    "binary/05-stonks.md",
     "tercer parcial/reversing/04-Bit-O-Asm-3.md",
     "tercer parcial/reversing/03-Bit-O-Asm-2.md",
     "tercer parcial/reversing/02-Bit-O-Asm-1.md",
-    "tercer parcial/reversing/01-ASCII FTW.md",
     "reverse enginering/12-need for speed.md",
     "reverse enginering/10-reverse_cipher.md",
     "reverse enginering/09-gdb test drive.md",
     "reverse enginering/07-asm3.md",
     "reverse enginering/08-fast.md",
-    "reverse enginering/15-safe opener 2.md",
-    "reverse enginering/14-reverse cipher.md",
-    "reverse enginering/13-gdb test drive.md",
-    "reverse enginering/11-save opener.md",
-    "reverse enginering/06-asm2.md",
-    "reverse enginering/03-Vault door 3.md",
-    "reverse enginering/05-asm1.md",
-    "tercer parcial/reversing/plantilla.md",
-    "tercer parcial/crypto/04-vigenere.md",
     "tercer parcial/reversing",
-    "tercer parcial/crypto/03-transposition-trial.md",
     "tercer parcial/binary",
     "tercer parcial/crypto",
     "Untitled 1",
